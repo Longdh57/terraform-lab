@@ -1,4 +1,4 @@
-# Lab 1: Initial an EC2 instance
+# Lab 0: Initial an EC2 instance
 
 ## Objective
 Initial an EC2 instance with terraform
